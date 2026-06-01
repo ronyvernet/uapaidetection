@@ -1,6 +1,20 @@
 # UAP AI Detection
 UAP detection using LocateAnything AI Model
 
+## Notebook
+
+GitHub's notebook preview can sometimes return `An error occurred` from
+`notebooks.githubusercontent.com`, even when the `.ipynb` file itself is valid.
+If that happens, use one of these links:
+
+- Open in Colab: https://colab.research.google.com/github/ronyvernet/uapaidetection/blob/main/locateanything_video_colab.ipynb
+- Raw notebook: https://raw.githubusercontent.com/ronyvernet/uapaidetection/main/locateanything_video_colab.ipynb
+- nbviewer: https://nbviewer.org/github/ronyvernet/uapaidetection/blob/main/locateanything_video_colab.ipynb
+
+A static HTML render is also available in `docs/index.html`. To publish it,
+enable GitHub Pages from the `main` branch and `/docs` folder in the repository
+settings.
+
 ## License
 
 This repository's original code is licensed under the Apache License 2.0.
