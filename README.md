@@ -17,7 +17,7 @@ settings.
 
 ## License
 
-This repository's original code is licensed under the Apache License 2.0.
+This repository's original code is licensed under the GNU General Public License v3.0
 
 This project uses NVIDIA LocateAnything-3B as an external model dependency.
 The LocateAnything-3B model weights, model code, and associated assets are
