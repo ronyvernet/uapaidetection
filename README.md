@@ -1,0 +1,25 @@
+# UAP AI Detection
+UAP detection using LocateAnything AI Model
+
+## License
+
+This repository's original code is licensed under the Apache License 2.0.
+
+This project uses NVIDIA LocateAnything-3B as an external model dependency.
+The LocateAnything-3B model weights, model code, and associated assets are
+not included in this repository and are governed by NVIDIA's own license terms.
+
+According to NVIDIA's model page, LocateAnything-3B is released for
+non-commercial academic and non-profit research use only. Commercial use is not
+permitted unless separately authorized by NVIDIA.
+
+Users are responsible for reviewing and complying with the NVIDIA license before
+downloading or using the model.
+
+## Model Attribution
+
+This project uses:
+
+- NVIDIA LocateAnything-3B
+- Model page: https://huggingface.co/nvidia/LocateAnything-3B
+- Copyright/license: NVIDIA license for non-commercial research use
